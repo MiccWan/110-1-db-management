@@ -70,6 +70,7 @@
       "condition_variable": "cpp",
       "thread": "cpp"
     },
-    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 2, ColumnLimit: 100 }"
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 2, ColumnLimit: 100 }",
+    "C_Cpp.default.cppStandard": "c++17"
   }
 }
